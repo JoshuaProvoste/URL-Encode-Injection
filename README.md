@@ -1,4 +1,4 @@
-### URL Encode Injection
+### URL Encode Injection (UTF-8)
 
 Basic list of URL encoded UTF-8 characters for injection attacks. These types of attacks allows get bypass of login screens, database dumps, generation of custom payloads URL encode based, and many others results.
 
