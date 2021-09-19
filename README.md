@@ -14,7 +14,7 @@ With this basic list is possible make injections of special characters on web ap
 
 ### References
 
-Nowadays, there are no public references because is my own idea to bring null byte injection to the category of brute force or fuzzing process.
+Nowadays, there are no public references because is my own idea to bring Null Byte Injection to the category of brute force or fuzzing process.
 
 However, you can read more about Null Byte Injection and URL encoded attacks:
 
@@ -28,7 +28,7 @@ If you have an API endpoint like this /v1/product/some-id/price or whatever simi
 
 §some-id§ can be a uuid, hash or whatever are used insted of "id".
 
-Like null byte injection, the URL Encode Injection can be passed at the beginning or the end of your target entry point: 
+Like Null Byte Injection, the URL Encode Injection can be passed at the beginning or the end of your target entry point: 
 
 * /v1/product/§dictionary§/price
 * /v1/product/some-id§dictionary§/price
