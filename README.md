@@ -18,6 +18,8 @@ Nowadays, there are no public references because is my own idea to bring Null By
 
 However, you can read more about Null Byte Injection and URL encoded attacks:
 
+* https://owasp.org/www-community/Double_Encoding
+* https://en.wikipedia.org/wiki/Null_character
 * https://www.cgisecurity.com/lib/URLEmbeddedAttacks.html
 * https://owasp.org/www-community/attacks/Embedding_Null_Code
 * https://book.hacktricks.xyz/pentesting-web/file-inclusion#basic-lfi-and-bypasses
